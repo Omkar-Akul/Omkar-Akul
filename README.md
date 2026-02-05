@@ -112,8 +112,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+<h2></h2>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats-snowy-three-k96aqir1i6.vercel.app/api?username=Omkar-Akul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
