@@ -123,6 +123,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/omkar-9221/omkar-9221/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Omkar-Akul/Omkar-Akul/output/snake.svg" alt="Snake animation" />
 
 ###
