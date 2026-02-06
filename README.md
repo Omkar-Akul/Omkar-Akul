@@ -136,7 +136,7 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
   <img src="https://github-readme-stats-snowy-three-k96aqir1i6.vercel.app/api?username=Omkar-Akul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-snowy-three-k96aqir1i6.vercel.app/api/top-langs?username=Omkar-Akul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 
-  [![GitHub Streak](https://github-readme-streak-sttats-7lejiq9hu-omkar-9221s-projects.vercel.app?user=Omkar-Akul&theme=tokyonight-duo)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-stats-wkls.vercel.app?user=Omkar-Akul)](https://git.io/streak-stats)
 
 
 ###
