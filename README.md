@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🎓 Currently pursuing B.Tech at MITAOE<br>🌐 Building a strong foundation in Web Technologies<br>💡 Always curious and passionate about diving deep into tech<br>🚀 Exploring how things work under the hood<br>and turning ideas into code</p>
+<p align="left">🎓 Currently pursuing B.Tech at MITaoe<br>🌐 Building a strong foundation in Web Technologies<br>💡 Always curious and passionate about diving deep into tech<br>🚀 Exploring how things work under the hood<br>and turning ideas into code</p>
 
 ###
 
