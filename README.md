@@ -116,13 +116,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 February 2026 - To: 24 February 2026
+From: 18 February 2026 - To: 25 February 2026
 
-TypeScript   9 hrs 48 mins         ███████████████▓░░░░░░░░░   62.82 %
-CSS          2 hrs 27 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
-HTML         1 hr 15 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
-Prisma       51 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Bash         37 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+TypeScript   9 hrs 48 mins         █████████████▒░░░░░░░░░░░   52.75 %
+JavaScript   4 hrs 34 mins         ██████░░░░░░░░░░░░░░░░░░░   24.55 %
+CSS          1 hr 29 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+HTML         1 hr 5 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Prisma       51 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
 ```
 
 <!--END_SECTION:waka-->
