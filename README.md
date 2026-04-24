@@ -116,9 +116,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 April 2026 - To: 22 April 2026
+From: 16 April 2026 - To: 23 April 2026
 
-Other   4 mins                ███████████████████▓░░░░░   78.79 %
+JavaScript   23 mins               ████████████▓░░░░░░░░░░░░   50.90 %
+HTML         10 mins               ██████░░░░░░░░░░░░░░░░░░░   23.40 %
+CSS          5 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
+Other        5 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
 ```
 
 <!--END_SECTION:waka-->
