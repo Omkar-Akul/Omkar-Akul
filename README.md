@@ -116,13 +116,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 May 2026 - To: 19 May 2026
+From: 14 May 2026 - To: 21 May 2026
 
 Git Config   6 mins                ████████████░░░░░░░░░░░░░   47.95 %
-JavaScript   4 mins                ████████▓░░░░░░░░░░░░░░░░   34.08 %
-Docker       1 min                 ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+JavaScript   4 mins                █████████░░░░░░░░░░░░░░░░   35.94 %
+Docker       1 min                 ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
 Git          0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-Other        0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
 ```
 
 <!--END_SECTION:waka-->
